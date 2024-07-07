@@ -1,0 +1,7 @@
+111, Full Synthetic Engine Oil 5 Qt, 50, 25.00, 0.25
+222, Car Battery, 150, 138.00, 0.45
+333, Brake Pads, 75, 44.00, 0.25
+444, Brake Rotor, 60, 60.00, 0.35
+555, Spark Plug, 45, 8.00, 0.30
+666, Wireset, 45, 38.00, 0.30
+777, Windshield Blades, 25, 30, 0.25
