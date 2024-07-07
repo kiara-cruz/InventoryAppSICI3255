@@ -1,1 +1,1 @@
-# This project details an application for an invented company called Kiara Auto Parts. It is designed using Spanish terms for the final project of SICI3255. Inn addition, the application is mainly used for inventory and simple accounting purposes. 
+# This project details an application for an invented company called "Kiara Auto Parts". It is designed using Spanish terms for the final project of SICI3255. The application is mainly used for inventory and simple accounting purposes. 
